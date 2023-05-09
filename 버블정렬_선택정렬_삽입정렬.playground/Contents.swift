@@ -21,6 +21,7 @@ func bubbleSort(_ array: inout [Int]) {
 
 
 
+
 /**
  ⭐️선택정렬
  1. 데이터 중 가장 작은 값을 찾는다.
